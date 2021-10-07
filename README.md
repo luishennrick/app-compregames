@@ -10,7 +10,7 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto em desenvolvimento é um e-commerce que foi criado como teste para avaliação e para fins de estudo.
+O projeto em desenvolvimento é um e-commerce, que foi criado como teste para avaliação e para fins de estudo.
 
 
 
